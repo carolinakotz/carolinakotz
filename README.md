@@ -2,20 +2,18 @@
 
 <div align="center">
 
-<sub>⋆｡˚ ☁︎ welcome to my github ₍^. .^₎⟆ ✧ ☁︎ ˚｡⋆</sub>
+⋆｡˚ ☁︎ welcome to my github ₍^. .^₎⟆ ✧ ☁︎ ˚｡⋆
 
-<br><br>
+<br>
 
-#### ˚₊‧ about me ‧₊˚
+### ˚₊‧ about me ‧₊˚
 
-<sub>
 developer & student at FIAP 💻<br>
 currently learning <b>web development</b> · always up for a good cup of coffee ☕
-</sub>
 
-<br><br>
+<br>
 
-#### ˚₊‧ tech stack ‧₊˚
+### ˚₊‧ tech stack ‧₊˚
 
 ![Java](https://img.shields.io/badge/java-1E1B2E?style=for-the-badge&logo=openjdk&logoColor=C084FC)
 ![SQL](https://img.shields.io/badge/sql-1E1B2E?style=for-the-badge)
@@ -28,9 +26,9 @@ currently learning <b>web development</b> · always up for a good cup of coffee 
 ![React](https://img.shields.io/badge/react-1E1B2E?style=for-the-badge&logo=react&logoColor=C084FC)
 ![Node.js](https://img.shields.io/badge/node.js-1E1B2E?style=for-the-badge&logo=nodedotjs&logoColor=C084FC)
 
-<br><br>
+<br>
 
-#### ˚₊‧ tools ‧₊˚
+### ˚₊‧ tools ‧₊˚
 
 ![Git](https://img.shields.io/badge/git-1E1B2E?style=for-the-badge&logo=git&logoColor=C084FC)
 ![Git Flow](https://img.shields.io/badge/git_flow-1E1B2E?style=for-the-badge&logo=git&logoColor=C084FC)
@@ -42,18 +40,16 @@ currently learning <b>web development</b> · always up for a good cup of coffee 
 ![Linux](https://img.shields.io/badge/linux-1E1B2E?style=for-the-badge&logo=linux&logoColor=C084FC)
 <!-- more logos: https://simpleicons.org -->
 
-<br><br>
+<br>
 
-#### ˚₊‧ stats ‧₊˚
+### ˚₊‧ stats ‧₊˚
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=carolinakotz&show_icons=true&hide_border=true&count_private=true&bg_color=1E1B2E&title_color=F0ABFC&icon_color=C084FC&text_color=E9D5FF" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinakotz&layout=compact&hide_border=true&bg_color=1E1B2E&title_color=F0ABFC&text_color=E9D5FF" />
 
 <br><br>
 
-<sub>thanks for stopping by 𐔌՞. .՞𐦯</sub>
-
-<br>
+thanks for stopping by 𐔌՞. .՞𐦯
 
 ![visitors](https://komarev.com/ghpvc/?username=carolinakotz&color=c084fc&style=flat-square&label=visitors+%E2%99%A1)
 
